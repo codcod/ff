@@ -1,0 +1,4 @@
+[database]
+
+DB_URL = 'postgresql+asyncpg://raspi:raspi@192.168.50.168/ff'
+DB_ECHO = true
